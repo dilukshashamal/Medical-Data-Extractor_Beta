@@ -1,0 +1,10 @@
+pymupdf
+numpy
+transformers
+paddleocr
+torch
+fastapi
+uvicorn
+streamlit
+paddlepaddle
+python-multipart
